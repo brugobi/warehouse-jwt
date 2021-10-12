@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  ideal_quantity: 1
+  current_quantity: 1
+  name: MyString
+  user: one
+
+two:
+  code: MyString
+  ideal_quantity: 1
+  current_quantity: 1
+  name: MyString
+  user: two
